@@ -1,0 +1,1 @@
+START C:\"Program Files"\Adobe\"Adobe Photoshop 2020"\photoshop.exe

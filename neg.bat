@@ -1,0 +1,1 @@
+echo jpeg artifacts, extra limbs, missing limbs, bad anatomy, cropped, low quality, ugly, poorly drawn hands, too many fingers| clip
